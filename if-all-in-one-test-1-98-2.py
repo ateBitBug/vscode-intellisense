@@ -25,7 +25,7 @@ class Child(Parent):
         return [0,1,2]
 
 '''
-Accessing CHILD classes methods.
+Accessing CHILD class methods.
 '''
 child = Child()
 child.getChildWorld()
@@ -49,6 +49,7 @@ For example, when typing 'child.', nothing shows up.
 SUMMARY:
 When line# 55-56 is uncommented:
     vscode version 1.84.2 intellisense works without any issues.
+        - This version's intellisense works with unlimited 'if statements'.
     vscode version 1.98.2 intellisense fails when line# are uncommented.
         - in fact, the intellisense has been failing since Nov2023 1.85.0.
 '''
