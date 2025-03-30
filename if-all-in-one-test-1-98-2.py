@@ -39,7 +39,7 @@ c = None
 
 
 
-# the intellisense fails when 45-46 is uncommented
+# the intellisense fails when 43-44 is uncommented
 # if (a == 1 and b == 2):
 #     c = 3
 
