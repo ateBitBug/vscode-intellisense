@@ -1,25 +1,22 @@
 '''
-vscode: 1.98.2
+vscode: 1.99.0
 os: windows 11
 
 extensions:
     pylance Version 2025.4.1
         Identifier ms-python.vscode-pylance
         Version 2025.4.1
-        Last Updated
-        2025-04-04, 05:21:39
+        Last Updated 2025-04-05, 07:36:25
     
     python Version 2025.2.0
         Identifier ms-python.python
-        Version 2025.2.0
-        Last Updated
-        2025-03-30, 07:59:26
+        Version 2025.4.0
+        Last Updated 2025-04-05, 07:36:25
     
     python debugger
         Identifier ms-python.debugpy
-        Version 2025.4.1
-        Last Updated
-        2025-03-30, 07:59:26
+        Version 2025.6.0
+        Last Updated 2025-04-05, 07:36:25
 '''
 
 class Parent:
@@ -62,7 +59,7 @@ c = None
 
 
 '''
-The intellisense fails when line# 77-78 is uncommented which is the 235th
+The intellisense fails when line# 74-75 is uncommented which is the 235th
 'if statement'.
 
 When the line are uncommented, the intellisense fails to provide
@@ -71,7 +68,7 @@ the auto complete feature for the CHILD object.
 For example, when typing 'child.', nothing shows up.
 
 SUMMARY:
-When line# 77-78 is uncommented:
+When line# 74-75 is uncommented:
     vscode version 1.98.2 intellisense fails when these line# are uncommented.
 '''
 # if (a == 1 and b == 2):
@@ -80,7 +77,7 @@ When line# 77-78 is uncommented:
 
 '''
 Try 'child.' here or anywhere in the code.
-With the line# 77-78 uncommented, the intellisense fails.
+With the line# 74-75 uncommented, the intellisense fails.
 '''
 child.getChildWorld()
 
