@@ -77,7 +77,7 @@ When line# 74-75 is uncommented:
 
 '''
 Try 'child.' here or anywhere in the code.
-With the line# 74-75 uncommented, the intellisense fails.
+With the line# 74-75 uncommented, the intellisense fails
 '''
 child.getChildWorld()
 
