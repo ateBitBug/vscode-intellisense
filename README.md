@@ -26,6 +26,7 @@ extensions:
         2025-03-30, 07:59:26
 
 THE BUG
+
 I created an example Python code which replicates the bug.  Please try the program 'if-all-in-one-test-1-98-2.py.
 
 When the line #77-78 are uncommented (which is the 235th 'if-statement'), the Python Intellisense doesn't auto display the available methods/properties.
