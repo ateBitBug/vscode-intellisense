@@ -1,4 +1,5 @@
 # vscode-intellisense
+# UPDATE: I tried this with vscode: v1.99.0 and the bug still exists.
 
 I'm using the latest version of VSCode and my extensions are:
 
