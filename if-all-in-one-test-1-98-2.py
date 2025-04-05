@@ -69,7 +69,7 @@ For example, when typing 'child.', nothing shows up.
 
 SUMMARY:
 When line# 74-75 is uncommented:
-    vscode version 1.98.2 intellisense fails when these line# are uncommented.
+    vscode's intellisense fails when these line# are uncommented.
 '''
 # if (a == 1 and b == 2):
 #     c = 3
