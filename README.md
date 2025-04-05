@@ -6,6 +6,7 @@ vscode: 1.98.2
 os: windows 11
 
 extensions:
+
     pylance Version 2025.4.1
         Identifier ms-python.vscode-pylance
         Version 2025.4.1
