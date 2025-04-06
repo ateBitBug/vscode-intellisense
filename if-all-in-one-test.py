@@ -1,14 +1,14 @@
 '''
 vscode: 1.99.0
-os: windows 11
+os: windows 11  v10.0.26100 Build 26100
 
 extensions:
-    pylance Version 2025.4.1
+    pylance
         Identifier ms-python.vscode-pylance
         Version 2025.4.1
         Last Updated 2025-04-05, 07:36:25
     
-    python Version 2025.2.0
+    python
         Identifier ms-python.python
         Version 2025.4.0
         Last Updated 2025-04-05, 07:36:25
