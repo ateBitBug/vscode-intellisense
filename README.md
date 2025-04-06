@@ -4,7 +4,7 @@ I'm using the latest version of VSCode and my extensions are:
 
 vscode: 1.99.0
 
-os: windows 11
+os: windows 11   v10.0.26100 Build 26100
 
 extensions:
 
